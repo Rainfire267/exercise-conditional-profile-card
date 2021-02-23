@@ -46,8 +46,8 @@ console.log(window.variables);
 Revisa este video con las instrucciones para mejor entendimiento: https://youtu.be/gaVm8eyCqlM
 
 1. Inicia el ejercicio siguiendo las instrucciones de instalación mas abajo.
-2. Lee el codigo dentro de `index.js` y entiendelo, revisa como la funcion `render` esta cogiendo los valores dentro de `variables` y incluyendolos dentro del innerHTML de la pagina.
-3. Cambia el cotenido de la funcion para que tome en cuenta todos los valores que llegan a traves de `variables`.
+2. Lee el codigo dentro de `index.js` y entiendelo, revisa como la funcion `render` esta cogiendo los valores dentro de `variables` e incluyendolos dentro del innerHTML de la pagina.
+3. Cambia el contenido de la funcion para que tome en cuenta todos los valores que llegan a traves de `variables`.
 
 ## Valores de variables iniciales
 
